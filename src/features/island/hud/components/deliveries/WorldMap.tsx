@@ -402,6 +402,7 @@ export const WorldMap: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           </span>
         )}
       </div>
+      
 
       <div
         style={{
